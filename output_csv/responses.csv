@@ -1,0 +1,23 @@
+answers,responses
+unable_to_use,35
+Please tick this box to begin the survey,35
+organisation,35
+funders,35
+job_title,35
+years_as_researcher,35
+use_software,35
+importance_software,35
+develop_own_code,35
+development_expertise,12
+training,12
+ready_to_share,12
+hpc_use,12
+version_control,12
+continuous_integration,12
+unit_testing,12
+current_support,12
+hired_developer,35
+Have you ever included costs for software development in a funding proposal or business case?,35
+hire_full_time_developer,31
+hire_rse,34
+registration,32
